@@ -53,5 +53,35 @@ export const todosData = [
         isCompleted: false,
         isToday: false,
         hour: '18:00'
+    }, {
+        id: 10,
+        text: 'Get a new Nike',
+        isCompleted: false,
+        isToday: false,
+        hour: '18:00'
+    }, {
+        id: 11,
+        text: 'Get a new Nike',
+        isCompleted: false,
+        isToday: false,
+        hour: '18:00'
+    }, {
+        id: 12,
+        text: 'Get a new Nike',
+        isCompleted: false,
+        isToday: false,
+        hour: '18:00'
+    }, {
+        id: 13,
+        text: 'Buy new car',
+        isCompleted: false,
+        isToday: true,
+        hour: '16:00'
+    }, {
+        id: 14,
+        text: 'Buy new car',
+        isCompleted: false,
+        isToday: true,
+        hour: '16:00'
     },
 ]

@@ -6,7 +6,7 @@ const TodoList = ({ todosData }) => {
     return (
         <FlatList
             data={todosData}
-            keyExtractor={(item) => item.id.toString()}
+            // keyExtractor={(item) => item.id.toString()}
             renderItem={({ item }) => <Todo {...item} />}
         />
     )
